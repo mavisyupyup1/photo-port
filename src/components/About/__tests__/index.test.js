@@ -2,6 +2,7 @@ import React from "react";
 import{render,cleanup} from '@testing-library/react'
 import About from '..'
 
+
 afterEach(cleanup);
 
 describe('About component',()=>{
