@@ -25,7 +25,7 @@ exports[`Contact component renders renders 1`] = `
       </div>
       <div>
         <label
-          for="exampleInputEmail1"
+          for="email"
         >
           Email address:
         </label>
